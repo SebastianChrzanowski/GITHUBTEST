@@ -16,7 +16,7 @@ public class KlasaPlik {
 
     public void wypisz(){
 
-        System.out.println("mam na imie " + imie + nazwisko + " i mam lat " + cos);
+        System.out.println("mam na imie " + imie + " " + nazwisko + " i mam lat " + cos);
     }
 
 }
